@@ -1,7 +1,7 @@
 # Multiview Learning and Self-supervision
-This is a code demo for the following perprint:
+This is a code demo for the following paper:
 
-[Qi Lyu, Xiao Fu, Weiran Wang and Songtao Lu, '*Latent Correlation-Based Multiview Learning and Self-Supervision: A Unifying Perspective*', arXiv preprint, Jun 2021.](https://arxiv.org/abs/2106.07115)
+[Qi Lyu, Xiao Fu, Weiran Wang and Songtao Lu, '*Understanding Latent Correlation-Based Multiview Learning and Self-Supervision: An Identifiability Perspective*', ICLR 2022, Spotlight.](https://openreview.net/pdf?id=5FUq05QRc5b)
 
 Run the command 'bash run_cars3d.sh' to see sample results on the [Cars3D](https://web.eecs.umich.edu/~honglak/nips2015-analogy.pdf) dataset.
 
